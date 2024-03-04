@@ -1,8 +1,11 @@
 # TITUlO
 > [DESCRIÇÃO RAPIDA]
-> 
+
 <img src="https://raw.githubusercontent.com/petbccufscar/.github/main/profile/icon.png" align="right" />
 
+[DESCRIÇÃO COMPLETA]
+[DESCRIÇÃO COMPLETA]
+[DESCRIÇÃO COMPLETA]
 [DESCRIÇÃO COMPLETA]
 
 ## Estrutura do Repositório
