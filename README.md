@@ -1,4 +1,4 @@
-# TITUlO
+# TITULO
 > [DESCRIÇÃO RAPIDA]
 
 <img src="https://raw.githubusercontent.com/petbccufscar/.github/main/profile/icon.png" align="right" />
